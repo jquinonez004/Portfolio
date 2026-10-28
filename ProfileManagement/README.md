@@ -1,18 +1,19 @@
-<title>GeekText API - Profile Management</title>
+**GeekText API - Profile Management**
 
 *Overview*
+
 
 GeekText is a bookstore REST API developed as part of a collaborative software engineering project at Florida International University. The application was designed to support features such as user profiles, book browsing, wish lists, shopping carts, and reviews.
 
 My primary responsibility was developing the Profile Management component, focusing on handling user profile information through backend API endpoints.
 
 **Technologies Used**
-<ul>Java</ul>
-<ul>Spring Boot</ul>
-<ul>Maven</ul>
-<ul>REST APIs</ul>
-<ul>Amazon RDS</ul>
-<ul>Postman</ul>
+<li>Java</ul>
+<li>Spring Boot</li>
+<li>Maven</li>
+<li>REST APIs</li>
+<li>Amazon RDS</li>
+<li>Postman</li>
 
 **Profile Management**
 
