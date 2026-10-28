@@ -1,8 +1,8 @@
 <title>GeekText API - Profile Management</title>
 
 *Overview*
-GeekText is a bookstore REST API developed as part of a collaborative software engineering project at Florida International University. The application was designed to support features such as user profiles,
-book browsing, wish lists, shopping carts, and reviews.
+
+GeekText is a bookstore REST API developed as part of a collaborative software engineering project at Florida International University. The application was designed to support features such as user profiles, book browsing, wish lists, shopping carts, and reviews.
 
 My primary responsibility was developing the Profile Management component, focusing on handling user profile information through backend API endpoints.
 
@@ -20,24 +20,27 @@ The profile management component was developed to support user-related functiona
 card creation. 
 
 My contributions included:
-<ul>Developing backend functionality for user profile management.</ul>
-<ul>Designing database schemas for the Profile Management component.</ul>
-<ul>Collaborating with teammates on database schemas for other application features.</ul>
-<ul>Testing REST API endpoints using Postman, such as GET, POST, PUT, and PATCH requests.</ul>
-<ul>Participating in Agile development as Scrum Master and Product Owner.</ul>
+<li>Developing backend functionality for user profile management.</li>
+<li>Designing database schemas for the Profile Management component.</li>
+<li>Collaborating with teammates on database schemas for other application features.</li>
+<li>Testing REST API endpoints using Postman, such as GET, POST, PUT, and PATCH requests.</li>
+<li>Participating in Agile development as Scrum Master and Product Owner.</li>
 
 **Development and Testing**
+
 
 The project was developed using Spring Boot, with Maven for dependency management. API functionality was tested using Postman to verify HTTP requests and responses. Our team also worked with Amazon RDS for
 database management and access. As part of the development process, we collaborated to troubleshoot API and database-related issues across different components.
 
+
 **Project Context**
+
 
 This repository showcases my work on the Profile Management component of GeekText, rather than the complete bookstore application. The project provided practical experience with backend development, REST
 API testing, relational databases, and collaborative software engineering.
 
 **Author**
+
 Josue Quinonez
 
-Computer Science Graduate
-Florida International University
+Computer Science Graduate | Florida International University
